@@ -6,8 +6,6 @@ public class NgayThangNam {
 
     public void tinhNgayThangNam() {
 
-        System.out.print("test test test , ti xoa sau");
-
         switch (thang) {
             case 1, 3, 5, 7, 8, 10, 12:
                 System.out.println("Thang " + thang + "co 31 ngay");
